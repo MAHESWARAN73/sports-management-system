@@ -1,0 +1,15 @@
+#nav{
+    padding: "20px";
+    text-align: center;
+    margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+};
+.container{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  } ;
+  .container{
+    margin-top: 50px;
+  }
